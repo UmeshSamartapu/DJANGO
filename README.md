@@ -1,9 +1,4 @@
-Here’s a **complete, structured roadmap of Django** from **Scratch → Level 0 → Beginner → Intermediate → Advanced**
-(very clear + aligned with how you actually build real projects 🚀)
-
----
-
-# 🚀 1. SCRATCH (Before Django)
+# 🚀 1. Before Django
 
 👉 Goal: Understand the **foundation**
 
