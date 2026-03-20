@@ -1,9 +1,3 @@
-Got it 👍 — you want **SQLite (`db.sqlite3`) commands in Django**, structured from **scratch → advanced** in a clean way.
-
-I’ll keep it **simple + practical + project-oriented**.
-
----
-
 # 🧱 0. Scratch Level (Start SQLite in Django)
 
 | Command                    | Purpose                            |

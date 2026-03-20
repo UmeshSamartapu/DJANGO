@@ -1,7 +1,3 @@
-Here’s a **clear, practical Django setup guide** (from zero → advanced), followed by a **complete command table** (beginner → intermediate → advanced).
-
----
-
 # 🚀 1. Django Setup (Step-by-Step)
 
 ## ✅ Step 1: Install Python
